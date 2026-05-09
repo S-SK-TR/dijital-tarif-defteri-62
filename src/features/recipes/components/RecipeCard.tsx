@@ -1,3 +1,4 @@
+import React from 'react'
 import { motion } from 'framer-motion'
 import { Heart, Clock, Utensils } from 'lucide-react'
 import { cn } from '@/lib/utils'

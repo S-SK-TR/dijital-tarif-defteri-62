@@ -1,3 +1,4 @@
+import React from 'react'
 import { BentoGrid, BentoGridItem } from '@/components/ui/BentoGrid'
 import { RecipeCard } from '../components/RecipeCard'
 import { Utensils, Zap, Heart, Search, Plus } from 'lucide-react'
@@ -102,3 +103,4 @@ export const HomePage = () => {
     </div>
   )
 }
+

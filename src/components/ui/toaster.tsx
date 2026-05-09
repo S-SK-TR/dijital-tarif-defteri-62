@@ -1,4 +1,4 @@
-import { useToast } from '@/hooks/use-toast'
+import * as React from 'react'
 import {
   Toast,
   ToastClose,
